@@ -21,15 +21,15 @@
  *
  * [Description]: Function to Initialize the BUZZZER Driver
  *
- * [Args]:	None
+ * [Args]:	  None
  *
- * [in]		None
+ * [in]		  None
  *
- * [out]	None
+ * [out]	  None
  *
- * [in/out]	None
+ * [in/out]	  None
  *
- * [Returns]:       None
+ * [Returns]:     None
  *******************************************************************************/
 void BUZZER_init(void)
 {
@@ -44,15 +44,15 @@ void BUZZER_init(void)
  *
  * [Description]: Function to turn on the BUZZZER
  *
- * [Args]:	None
+ * [Args]:	  None
  *
- * [in]		None
+ * [in]		  None
  *
- * [out]	None
+ * [out]	  None
  *
- * [in/out]	None
+ * [in/out]	  None
  *
- * [Returns]:       None
+ * [Returns]:     None
  *******************************************************************************/
 void BUZZER_turnOn(void)
 {
@@ -64,15 +64,15 @@ void BUZZER_turnOn(void)
  *
  * [Description]: Function to turn off the BUZZZER
  *
- * [Args]:	None
+ * [Args]:	  None
  *
- * [in]		None
+ * [in]		  None
  *
- * [out]	None
+ * [out]	  None
  *
- * [in/out]	None
+ * [in/out]	  None
  *
- * [Returns]:       None
+ * [Returns]:     None
  *******************************************************************************/
 void BUZZER_turnOff(void)
 {
