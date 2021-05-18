@@ -35,17 +35,17 @@
 /*******************************************************************************
  * [Function Name]: DCMOTOR_init
  *
- * [Description]: 	Function to Initialize the DC MOTOR Driver
- *					- Decide DC MOTOR pins direction
- * 					- Turn off the DC MOTOR at the beginning as the initial state
+ * [Description]: Function to Initialize the DC MOTOR Driver
+ *				- Decide DC MOTOR pins direction
+ * 			- Turn off the DC MOTOR at the beginning as the initial state
  *
- * [Args]:None
+ * [Args]:  None
  *
- * [in]			None
+ * [in]	None
  *
- * [out]		None
+ * [out]	None
  *
- * [in/out]	None
+ * [in/out]	  None
  *
  * [Returns]:     None
  *******************************************************************************/
@@ -58,9 +58,9 @@ void DCMOTOR_init(void);
  *
  * [Args]:	None
  *
- * [in]			None
+ * [in]		None
  *
- * [out]		None
+ * [out]	None
  *
  * [in/out]	None
  *
@@ -79,7 +79,7 @@ void DCMOTOR_rotateClockwise(void);
  *
  * [out]		  	None
  *
- * [in/out]		 	None
+ * [in/out]		 	  None
  *
  * [Returns]:       None
  *******************************************************************************/
