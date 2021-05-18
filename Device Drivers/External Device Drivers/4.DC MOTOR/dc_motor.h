@@ -88,7 +88,7 @@ void DCMOTOR_rotateAntiClockwise(void);
 /*******************************************************************************
  * [Function Name]: DCMOTOR_stop
  *
- * [Description]:Function to stop the DC MOTOR
+ * [Description]: Function to stop the DC MOTOR
  *
  * [Args]:        None
  *
