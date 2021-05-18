@@ -24,7 +24,7 @@
 /* LED Pin Configurations */
 #define LED_PORT_DIR  DDRA
 #define LED_PORT_OUT  PORTA
-#define LED_PIN      PA5
+#define LED_PIN       PA5
 
 /*******************************************************************************
  *                             Functions Prototypes                            *
@@ -33,15 +33,15 @@
 /*******************************************************************************
  * [Function Name]: LED_init
  *
- * [Description]: 	Function to Initialize the LED Driver
+ * [Description]: Function to Initialize the LED Driver
  *
- * [Args]:			None
+ * [Args]:	None
  *
- * [in]			  	None
+ * [in]			 None
  *
- * [out]		  	None
+ * [out]		 None
  *
- * [in/out]		 	None
+ * [in/out]		None
  *
  * [Returns]:       None
  *******************************************************************************/
