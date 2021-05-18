@@ -39,9 +39,9 @@
  *		 - Decide DC MOTOR pins direction
  * 		 - Turn off the DC MOTOR at the beginning as the initial state
  *
- * [Args]:       None
+ * [Args]:         None
  *
- * [in]	         None
+ * [in]	           None
  *
  * [out]	  None
  *
@@ -71,15 +71,15 @@ void DCMOTOR_rotateClockwise(void);
 /*******************************************************************************
  * [Function Name]: DCMOTOR_rotateAntiClockwise
  *
- * [Description]: 	Function to force the DC MOTOR to rotate Anti Clockwise
+ * [Description]: Function to force the DC MOTOR to rotate Anti Clockwise
  *
- * [Args]:	None
+ * [Args]:	  None
  *
- * [in]				None
+ * [in]		None
  *
- * [out]			None
+ * [out]		None
  *
- * [in/out]		 	None
+ * [in/out]			None
  *
  * [Returns]:       None
  *******************************************************************************/
@@ -88,13 +88,13 @@ void DCMOTOR_rotateAntiClockwise(void);
 /*******************************************************************************
  * [Function Name]: DCMOTOR_stop
  *
- * [Description]:	Function to stop the DC MOTOR
+ * [Description]:Function to stop the DC MOTOR
  *
- * [Args]:      None
+ * [Args]:        None
  *
- * [in]			None
+ * [in]	None
  *
- * [out]		None
+ * [out]	None
  *
  * [in/out]	None
  *
