@@ -317,7 +317,7 @@ void TIMER_init(const TIMER_ConfigType * Config_Ptr)
 
 		/* Configure TIMER2 Register (COMPARE MODE):
 		 *
-		 *- Insert the required compare value in the OCR2 register, TIMER2 is (8-bit),
+		 * - Insert the required compare value in the OCR2 register, TIMER2 is (8-bit),
 		 *  so mask the compare value with 0xFF to ensure that it does not exceed 255
 		 * - Non PWM Mode (FOC2 = 1) in TCCR2 register
 		 * - Compare Mode (WGM20 = 0 & WGM21 = 1) in TCCR2 register
