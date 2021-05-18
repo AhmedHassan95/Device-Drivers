@@ -37,13 +37,13 @@
  *
  * [Args]:      None
  *
- * [in]			      None
+ * [in]			  None
  *
- * [out]		      None
+ * [out]		  None
  *
- * [in/out]  	  None
+ * [in/out]  	 None
  *
- * [Returns]:    Nne
+ * [Returns]:    None
  *******************************************************************************/
 void LED_init(void);
 
