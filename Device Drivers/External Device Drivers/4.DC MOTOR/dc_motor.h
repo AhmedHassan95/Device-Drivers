@@ -39,15 +39,15 @@
  *					- Decide DC MOTOR pins direction
  * 					- Turn off the DC MOTOR at the beginning as the initial state
  *
- * [Args]:			None
+ * [Args]:None
  *
- * [in]			  	None
+ * [in]			None
  *
- * [out]		  	None
+ * [out]		None
  *
- * [in/out]		 	None
+ * [in/out]	None
  *
- * [Returns]:       None
+ * [Returns]:     None
  *******************************************************************************/
 void DCMOTOR_init(void);
 
@@ -56,15 +56,15 @@ void DCMOTOR_init(void);
  *
  * [Description]: 	Function to force the DC MOTOR to rotate Clockwise
  *
- * [Args]:			None
+ * [Args]:	None
  *
- * [in]			  	None
+ * [in]			None
  *
- * [out]		  	None
+ * [out]		None
  *
- * [in/out]		 	None
+ * [in/out]	None
  *
- * [Returns]:       None
+ * [Returns]:     None
  *******************************************************************************/
 void DCMOTOR_rotateClockwise(void);
 
