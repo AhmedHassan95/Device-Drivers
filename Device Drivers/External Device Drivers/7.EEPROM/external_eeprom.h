@@ -29,53 +29,53 @@
 /*******************************************************************************
  * [Function Name]: EEPROM_init
  *
- * [Description]: 	Function responsible for initializing EEPROM driver
+ * [Description]: Function responsible for initializing EEPROM driver
  *
- * [Args]:			None
+ * [Args]:	None
  *
- * [in]			  	None
+ * [in]			 None
  *
- * [out]		  	None
+ * [out]		 None
  *
- * [in/out]		 	None
+ * [in/out]		None
  *
- * [Returns]:       None
+ * [Returns]:     None
  *******************************************************************************/
 void EEPROM_init(void);
 
 /*******************************************************************************
  * [Function Name]: EEPROM_writeByte
  *
- * [Description]: 	Function responsible for writing 1 Byte in the EEPROM
+ * [Description]: Function responsible for writing 1 Byte in the EEPROM
  *
- * [Args]:			u16addr, u8data
+ * [Args]:		u16addr, u8data
  *
- * [in]			  	u16addr: Unsigned Short (EEPROM Byte Address)
+ * [in]			u16addr: Unsigned Short (EEPROM Byte Address)
  * 					u8data:	 Unsigned Character (Data need to be written in the EEPROM)
  *
- * [out]		  	Unsigned Character
+ * [out]		 Unsigned Character
  *
- * [in/out]		 	None
+ * [in/out]	None
  *
- * [Returns]:       Status of this function (SUCCESS, ERROR)
+ * [Returns]:    Status of this function (SUCCESS, ERROR)
  *******************************************************************************/
 uint8 EEPROM_writeByte(uint16 u16addr, uint8 u8data);
 
 /*******************************************************************************
  * [Function Name]: EEPROM_readByte
  *
- * [Description]: 	Function responsible for reading 1 Byte from the EEPROM
+ * [Description]: Function responsible for reading 1 Byte from the EEPROM
  *
- * [Args]:			u16addr, u8data
+ * [Args]:	u16addr, u8data
  *
- * [in]			  	u16addr: Unsigned Short (Address where the data will be read from the EEPROM)
+ * [in]		 u16addr: Unsigned Short (Address where the data will be read from the EEPROM)
  * 					u8data: Pointer to Character (The data that will read from the EEPROM)
  *
- * [out]		  	Unsigned Character
+ * [out]		  Unsigned Character
  *
- * [in/out]		 	None
+ * [in/out]		None
  *
- * [Returns]:       Status of this function (SUCCESS, ERROR)
+ * [Returns]:    Status of this function (SUCCESS, ERROR)
  *******************************************************************************/
 uint8 EEPROM_readByte(uint16 u16addr,uint8 * u8data);
  
