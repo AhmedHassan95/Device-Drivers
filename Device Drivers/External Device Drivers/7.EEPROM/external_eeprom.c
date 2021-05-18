@@ -14,21 +14,21 @@
 #include "external_eeprom.h"
 
 /******************************************************************************************
- *                  		      Functions Definitions                                   *
+ *                  		      Functions Definitions                               *
  ******************************************************************************************/
 
 /******************************************************************************************
  * [Function Name]: EEPROM_init
  *
- * [Description]: 	Function responsible for initializing EEPROM driver
+ * [Description]: Function responsible for initializing EEPROM driver
  *
- * [Args]:			None
+ * [Args]:	    None
  *
- * [in]			  	None
+ * [in]		    None
  *
- * [out]		  	None
+ * [out]            None
  *
- * [in/out]		 	None
+ * [in/out]	    None
  *
  * [Returns]:       None
  ******************************************************************************************/
