@@ -37,13 +37,13 @@
  *
  * [Description]: Function to Initialize the Seven Segment Driver
  *
- * [Args]:	None
+ * [Args]:	  None
  *
- * [in]			 None
+ * [in]	 None
  *
- * [out]		 None
+ * [out]	None
  *
- * [in/out]		None
+ * [in/out]	None
  *
  * [Returns]:     None
  *******************************************************************************/
@@ -54,13 +54,13 @@ void SEGMENT_init(void);
  *
  * [Description]: Function to display digital numbers on the Seven Segment
  *
- * [Args]:		digit
+ * [Args]:	digit
  *
- * [in]			  digit: Unsigned Character to store number to be displayed on 7-SEG
+ * [in]			 digit: Unsigned Character to store number to be displayed on 7-SEG
  *
- * [out]		  None
+ * [out]		None
  *
- * [in/out]		 None
+ * [in/out]	None
  *
  * [Returns]:     None
  *******************************************************************************/
