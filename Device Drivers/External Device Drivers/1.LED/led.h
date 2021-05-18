@@ -41,9 +41,9 @@
  *
  * [out]	  None
  *
- * [in/out]  	 None
+ * [in/out]  	  None
  *
- * [Returns]:    None
+ * [Returns]:     None
  *******************************************************************************/
 void LED_init(void);
 
