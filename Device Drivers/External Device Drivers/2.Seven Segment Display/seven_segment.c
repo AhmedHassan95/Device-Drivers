@@ -29,7 +29,7 @@
  *
  * [in/out]       None
  *
- * [Returns]:       None
+ * [Returns]:     None
  *******************************************************************************/
 void SEGMENT_init(void)
 {
@@ -57,7 +57,7 @@ void SEGMENT_init(void)
  *
  * [in/out]	  None
  *
- * [Returns]:       None
+ * [Returns]:     None
  *******************************************************************************/
 void SEGMENT_displayDigitalNUmbers(uint8 digit)
 {
