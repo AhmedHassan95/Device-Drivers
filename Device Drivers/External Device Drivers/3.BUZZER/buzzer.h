@@ -24,7 +24,7 @@
 /* BUZZER Pin Configurations */
 #define BUZZER_PORT_DIR 	   DDRA
 #define BUZZER_PORT_OUT	   	   PORTA
-#define BUZZER_PIN 	  	       PA0
+#define BUZZER_PIN 	  	     PA0
 
 /*******************************************************************************
  *                             Functions Prototypes                            *
@@ -33,17 +33,17 @@
 /*******************************************************************************
  * [Function Name]: BUZZER_init
  *
- * [Description]: 	Function to Initialize the BUZZZER Driver
+ * [Description]: Function to Initialize the BUZZZER Driver
  *
- * [Args]:			None
+ * [Args]:	None
  *
- * [in]			  	None
+ * [in]			 None
  *
- * [out]		  	None
+ * [out]		 None
  *
- * [in/out]		 	None
+ * [in/out]		None
  *
- * [Returns]:       None
+ * [Returns]:     None
  *******************************************************************************/
 void BUZZER_init(void);
 
@@ -67,15 +67,15 @@ void BUZZER_turnOn(void);
 /*******************************************************************************
  * [Function Name]: BUZZER_turnOff
  *
- * [Description]: 	Function to turn off the BUZZZER
+ * [Description]: Function to turn off the BUZZZER
  *
- * [Args]:			None
+ * [Args]:	None
  *
- * [in]			  	None
+ * [in]			 None
  *
- * [out]		  	None
+ * [out]			None
  *
- * [in/out]		 	None
+ * [in/out]		None
  *
  * [Returns]:       None
  *******************************************************************************/
