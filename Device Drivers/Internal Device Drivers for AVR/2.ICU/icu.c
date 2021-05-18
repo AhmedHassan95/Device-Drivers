@@ -37,10 +37,10 @@ ISR(TIMER1_CAPT_vect)
  *******************************************************************************/
 /*
  * Description : Function to initialize the ICU driver
- * 					- Set the required clock
- * 					- Set the required edge detection
- * 					- Enable the Input Capture Interrupt
- * 					- Initialize Timer1 Registers
+ * 		 - Set the required clock
+ * 		 - Set the required edge detection
+ * 		 - Enable the Input Capture Interrupt
+ * 		 - Initialize Timer1 Registers
  */
 void ICU_init(const ICU_ConfigType * Config_Ptr)
 {
