@@ -193,7 +193,7 @@ void TIMER_init(const TIMER_ConfigType * Config_Ptr)
 			TIMSK |= (1 << TOIE0);
 			break;
 
-	    /* Configure TIMER0 Register (COMPARE MODE):
+	    	/* Configure TIMER0 Register (COMPARE MODE):
 		 *
 		 * - Insert the required compare value in the OCR0 register, TIMER0 is (8-bit),
 		 *   so mask the compare value with 0xFF to ensure that it does not exceed 255
