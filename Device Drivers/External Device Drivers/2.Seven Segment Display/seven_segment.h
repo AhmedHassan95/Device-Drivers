@@ -39,7 +39,7 @@
  *
  * [Args]:	  None
  *
- * [in]	         None
+ * [in]	          None
  *
  * [out]	  None
  *
@@ -58,11 +58,11 @@ void SEGMENT_init(void);
  *
  * [in]		  digit: Unsigned Character to store number to be displayed on 7-SEG
  *
- * [out]	 None
+ * [out]	  None
  *
- * [in/out]	 None
+ * [in/out]	  None
  *
- * [Returns]:    None
+ * [Returns]:     None
  *******************************************************************************/
 void SEGMENT_displayDigitalNUmbers(uint8 digit);
 
