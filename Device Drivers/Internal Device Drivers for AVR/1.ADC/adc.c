@@ -37,11 +37,11 @@ ISR(ADC_vect)
  *******************************************************************************/
 /*
  * Description : Function to initialize the ADC driver
- * 					- Set the required clock
- * 					- Set the required reference
- * 					- Set the required adjust
- * 					- Enable the ADC Module
- * 					- Enable the ADC Interrupt
+ * 		 - Set the required clock
+ * 		 - Set the required reference
+ * 		 - Set the required adjust
+ * 		 - Enable the ADC Module
+ * 		 - Enable the ADC Interrupt
  */
 void ADC_init(const ADC_ConfigType * Config_Ptr)
 {
