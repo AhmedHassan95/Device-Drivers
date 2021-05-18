@@ -31,13 +31,13 @@
  *
  * [Description]: Function responsible for initializing EEPROM driver
  *
- * [Args]:  None
+ * [Args]:      None
  *
- * [in]	None
+ * [in]	       None
  *
  * [out]	None
  *
- * [in/out] None
+ * [in/out]     None
  *
  * [Returns]:     None
  *******************************************************************************/
@@ -51,7 +51,7 @@ void EEPROM_init(void);
  * [Args]:	u16addr, u8data
  *
  * [in]		u16addr: Unsigned Short (EEPROM Byte Address)
- * 				u8data:	 Unsigned Character (Data need to be written in the EEPROM)
+ * 		u8data:	 Unsigned Character (Data need to be written in the EEPROM)
  *
  * [out]	 Unsigned Character
  *
@@ -69,11 +69,11 @@ uint8 EEPROM_writeByte(uint16 u16addr, uint8 u8data);
  * [Args]:u16addr, u8data
  *
  * [in]		 u16addr: Unsigned Short (Address where the data will be read from the EEPROM)
- * 			u8data: Pointer to Character (The data that will read from the EEPROM)
+ * 		u8data: Pointer to Character (The data that will read from the EEPROM)
  *
- * [out]		 Unsigned Character
+ * [out]	 Unsigned Character
  *
- * [in/out]		None
+ * [in/out]	None
  *
  * [Returns]:    Status of this function (SUCCESS, ERROR)
  *******************************************************************************/
