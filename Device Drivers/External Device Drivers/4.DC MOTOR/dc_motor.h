@@ -77,9 +77,9 @@ void DCMOTOR_rotateClockwise(void);
  *
  * [in]		  None
  *
- * [out]	None
+ * [out]	  None
  *
- * [in/out]	None
+ * [in/out]	  None
  *
  * [Returns]:       None
  *******************************************************************************/
@@ -92,11 +92,11 @@ void DCMOTOR_rotateAntiClockwise(void);
  *
  * [Args]:        None
  *
- * [in]	      None
+ * [in]	        None
  *
- * [out]	 None
+ * [out]	  None
  *
- * [in/out]	 None
+ * [in/out]	  None
  *
  * [Returns]:     None
  *******************************************************************************/
