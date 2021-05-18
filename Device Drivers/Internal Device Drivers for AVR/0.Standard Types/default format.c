@@ -8,16 +8,16 @@
  *
  * [DESCRIPTION]: This Project is to design
  *
- *  			   Design Considerations for MCU:
+ *  		  Design Considerations for MCU:
  *
- *	 	 	 		 - Target: AVR MCU ATmega 16 (F_CPU = 8 MHZ).
- *			     	 - 
+ *	 	  - Target: AVR MCU ATmega 16 (F_CPU = 8 MHZ).
+ *		  - 
  *
  *                The sequence of the Program:
  *
- *                 	Phase 1:
+ *                 Phase 1:
  *
- *					Phase 2:			   	
+ *		   Phase 2:			   	
  *
  *****************************************************************************************/
 
@@ -42,13 +42,13 @@ int main(void)
 
 
 	/********************************************************************************
-	 *                        APPLICATION	(SUPER LOOP)						    *
+	 *                        APPLICATION	(SUPER LOOP)			        *
 	 ********************************************************************************/
 
 	while(1)
 	{
 		/****************************************************************************
-		 *                             USER DECISION					            *
+		 *                             USER DECISION			            *
 		 ****************************************************************************/
 
 
