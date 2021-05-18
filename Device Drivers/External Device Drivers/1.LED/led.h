@@ -35,15 +35,15 @@
  *
  * [Description]: Function to Initialize the LED Driver
  *
- * [Args]:   None
+ * [Args]:      None
  *
- * [in]			  None
+ * [in]			      None
  *
- * [out]		  None
+ * [out]		      None
  *
- * [in/out]  	None
+ * [in/out]  	  None
  *
- * [Returns]:       None
+ * [Returns]:    Nne
  *******************************************************************************/
 void LED_init(void);
 
