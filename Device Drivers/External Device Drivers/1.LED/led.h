@@ -52,13 +52,13 @@ void LED_init(void);
  *
  * [Description]: Function to turn on the LED
  *
- * [Args]:		None
+ * [Args]:	None
  *
- * [in]			 None
+ * [in]			None
  *
- * [out]		 None
+ * [out]		None
  *
- * [in/out]		None
+ * [in/out]	None
  *
  * [Returns]:     None
  *******************************************************************************/
