@@ -22,9 +22,9 @@
  *******************************************************************************/
 
 /* LED Pin Configurations */
-#define LED_PORT_DIR DDRA
-#define LED_PORT_OUT PORTA
-#define LED_PIN PA5
+#define LED_PORT_DIR  DDRA
+#define LED_PORT_OUT  PORTA
+#define LED_PIN    PA5
 
 /*******************************************************************************
  *                             Functions Prototypes                            *
